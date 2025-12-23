@@ -1,0 +1,12 @@
+{
+  "products": [
+    {
+      "pname": "CPU",
+      "descrip": "i7 12th Gen",
+      "Quantity": "12",
+      "price": "30000",
+      "instock": true,
+      "id": "43b9"
+    }
+  ]
+}
